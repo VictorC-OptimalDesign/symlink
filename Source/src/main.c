@@ -8,5 +8,7 @@ void doStuff(void)
 
 int main(void)
 {
+	// Dummy write.
+	print("do some stuff in main.");
 	return 0;
 }
